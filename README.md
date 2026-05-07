@@ -1,4 +1,4 @@
-# **![Title](./images/title.png)**
+# ![Title](./images/title.png)
 
 ## Installation
 Go to [installations](./main/installations.md) to install the game.
