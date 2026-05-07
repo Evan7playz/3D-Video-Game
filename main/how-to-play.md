@@ -11,7 +11,7 @@ Mouse & Keyboard
 * **Left Click**: Place a cube  
 * **Right Click**: Remove a cube
 
-## Game Features  
+Game Features  
 Building
 
 * Use the color picker to choose your cube color  
