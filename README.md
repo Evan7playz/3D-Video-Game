@@ -11,9 +11,6 @@ You can check [updates](./main/updates.md) for versions.
 * Linux
 * Chrome OS
 
-## Credits
-* [Credits](./main/credits.pdf)
-
 ## Screenshots
 
 ![Screenshot 1](./screenshots/screenshot_1.png)
