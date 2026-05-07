@@ -1,5 +1,5 @@
 # 3D-Video-Game
-A game where you can build with cubes
+A game where you can build with cubes.
 
 ## Installation
 Go to "main" and download the version you want.
