@@ -1,6 +1,10 @@
 # 3D-Video-Game
 A game where you can build with cubes
 
+## Installation
+Go to "main" and download the version you want.
+You can check "updates.txt" for versions.
+
 ## Screenshots
 
 ![App Screenshot](./screenshots/screenshot_1.png)
