@@ -11,10 +11,6 @@ You can check [updates](./main/updates.md) for versions.
 * Linux
 * Chrome OS
 
-## How To Play
-Need to know how to play?
-Click [here](./main/how-to-play.md) to learn how to play.
-
 ## Screenshots
 
 ![Screenshot 1](./screenshots/screenshot_1.png)
