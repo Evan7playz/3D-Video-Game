@@ -32,4 +32,4 @@ Getting Started
 3. Use the controls to move around and build your world  
 4. Experiment with different colors and cube arrangements
 
-**Your world is saved automatically, so you can come back anytime and continue building\!  **
+**Your world is saved automatically, so you can come back anytime and continue building\!**
