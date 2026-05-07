@@ -6,7 +6,10 @@ Go to "main" and download the version you want.
 You can check "updates.txt" for versions.
 
 ## Supported Operating Systems
-
+* Windows (7 or later)
+* macOS (10.12 or later)
+* Linux
+* Chrome OS
 
 ## Screenshots
 
