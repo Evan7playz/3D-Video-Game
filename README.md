@@ -1,5 +1,4 @@
 # ![Title](./images/title.png)
-A game where you can build with cubes.
 
 ## Installation
 Go to [installations](./main/installations.md) to install the game.
