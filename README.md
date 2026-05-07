@@ -12,7 +12,8 @@ You can check [Updates](./main/updates.txt) for versions.
 * Chrome OS
 
 ## How To Play
-Just go to ./main/
+Need to know how to play?
+Click [here](./main/how-to-play.md) to learn how to play.
 
 ## Screenshots
 
