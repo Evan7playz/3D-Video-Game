@@ -3,7 +3,7 @@ A game where you can build with cubes
 
 ## Installation
 Go to "main" and download the version you want.
-You can check [updates](./updates.md) for versions.
+You can check [updates](./main/updates.md) for versions.
 
 ## Supported Operating Systems
 * Windows (7 or later)
