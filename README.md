@@ -1,4 +1,4 @@
-# 3D-Video-Game
+# ![Title](./images/title.png)
 A game where you can build with cubes.
 
 ## Installation
