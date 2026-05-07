@@ -1,6 +1,7 @@
-How to Play  
+# How to Play  
 Welcome to the 3D Building Game\! This game lets you create and explore your own 3D world by placing and removing cubes.  
-Controls  
+
+## Controls  
 Mouse & Keyboard
 
 * **Mouse**: Look around by moving your mouse  
@@ -10,7 +11,7 @@ Mouse & Keyboard
 * **Left Click**: Place a cube  
 * **Right Click**: Remove a cube
 
-Game Features  
+## Game Features  
 Building
 
 * Use the color picker to choose your cube color  
@@ -24,7 +25,7 @@ Saving & Loading
 * Export your world to a file using the export button  
 * Import previously saved worlds using the import button
 
-Getting Started
+## Getting Started
 
 1. Click the "Play" button to start  
 2. Click anywhere on the screen to lock your mouse cursor  
