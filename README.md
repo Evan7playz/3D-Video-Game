@@ -3,13 +3,16 @@ A game where you can build with cubes
 
 ## Installation
 Go to "main" and download the version you want.
-You can check "updates.txt" for versions.
+You can check [Updates](./main/updates.txt) for versions.
 
 ## Supported Operating Systems
 * Windows (7 or later)
 * macOS (10.12 or later)
 * Linux
 * Chrome OS
+
+## How To Play
+Just go to ./main/
 
 ## Screenshots
 
