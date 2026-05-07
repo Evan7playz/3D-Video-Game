@@ -11,7 +11,7 @@ Mouse & Keyboard
 * **Left Click**: Place a cube  
 * **Right Click**: Remove a cube
 
-Game Features  
+## Game Features  
 Building
 
 * Use the color picker to choose your cube color  
@@ -25,7 +25,7 @@ Saving & Loading
 * Export your world to a file using the export button  
 * Import previously saved worlds using the import button
 
-## Getting Started
+Getting Started
 
 1. Click the "Play" button to start  
 2. Click anywhere on the screen to lock your mouse cursor  
