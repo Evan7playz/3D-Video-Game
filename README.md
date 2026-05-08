@@ -3,6 +3,9 @@
 ## Installation
 Go to [installations](./main/installations.md) to install the game.
 
+After clicking on the version that you want, click the download icon on the file.
+![Download](./images/download.png)
+
 ## Supported Operating Systems
 * Windows (7 or later)
 * macOS (10.12 or later)
