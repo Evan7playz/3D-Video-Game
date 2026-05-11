@@ -12,6 +12,9 @@ After clicking on the version that you want, click the download icon on the file
 * Linux
 * Chrome OS
 
+## More Information
+Click [here](https://github.com/EvanPlays676/3D-Video-Game/wiki) for more information.
+
 ## Screenshots
 ![Screenshot 1](./screenshots/screenshot_1.png)
 ![Screenshot 2](./screenshots/screenshot_2.png)
