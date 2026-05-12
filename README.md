@@ -5,7 +5,7 @@ Go to [installations](./main/installations.md) to install the game.
 
 After clicking on the version that you want, click the download icon on the file.
 ![Download](./images/download.png)
-If you need to know how to play click [here](https://github.com/EvanPlays676/3D-Video-Game/wiki) to learn.
+If you need to know how to play, click [here](https://github.com/EvanPlays676/3D-Video-Game/wiki) to learn.
 
 ## Supported Operating Systems
 * Windows (7 or later)
